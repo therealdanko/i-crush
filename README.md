@@ -7,6 +7,7 @@
 "As a user, I access 'stats' in the navbar. This will direct me to a stats page with statistics related to daily, weekly, and monthly goals."
 
 Application Flow
+
 ![Screenshot 2022-04-18 141616](https://user-images.githubusercontent.com/98357863/163880494-653f18f5-02c5-43c4-b600-715cb4380765.jpg)
 
 
