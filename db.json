@@ -1,0 +1,60 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "name": "Take dog for a walk",
+            "Completed": false,
+            "Description": "Don't forget the poop bags!",
+            "Category": "Activity"
+        },
+        {
+            "id": 2,
+            "name": "Write blog post",
+            "Completed": false,
+            "Description": "Choose technical topic about React.js",
+            "Category": "School"
+        },
+        {
+            "id": 3,
+            "name": "File taxes",
+            "Completed": false,
+            "Description": "Gather all tax documents, speak to CPA",
+            "Category": "Work"
+        },
+        {
+            "id": 4,
+            "name": "Plan summer vacation to Europe",
+            "Completed": false,
+            "Description": "Book flights, build itinerary research ",
+            "Category": "Activity"
+        },
+        {
+            "id": 5,
+            "name": "Clean bedroon",
+            "Completed": false,
+            "Description": "Vacuum floors, mop bathroom, wipe down surfaces",
+            "Category": "Home"
+        },
+        {
+            "id": 6,
+            "name": "Go to Costco",
+            "Completed": false,
+            "Description": "We need laundry detergent, TP, and groceries",
+            "Category": "Home"
+        },
+        {
+            "id": 7,
+            "name": "Get car washed",
+            "Completed": false,
+            "Description": "Don't forget to get the inside vacuumed as well",
+            "Category": "Home"
+        },
+        {
+            "id": 8,
+            "name": "Finish project",
+            "Completed": false,
+            "Description": "Complete my portion of project and prepare presentation",
+            "Category": "Work"
+        }
+    ]
+}
