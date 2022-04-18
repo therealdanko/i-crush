@@ -1,0 +1,22 @@
+.task-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid rgb(222, 222, 222);
+  border-radius: 10px;
+  padding: 6vh;
+  margin: 50px;
+  max-width: 400px;
+  min-width: 30vw;
+  
+}
+
+.task-form button {
+  margin-top: 20px;
+
+}
+
+.task-form h2 {
+  margin-bottom: 20px;
+}
